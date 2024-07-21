@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="250" src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif"  />
+  <img height="300" src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif"  />
 </div>
 
 ###
@@ -26,7 +26,7 @@
 
 ###
 
-<img align="right" height="250" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*wNGxHlTCsH9zU90WDouoDQ.gif"  />
+<img align="right" height="200" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*wNGxHlTCsH9zU90WDouoDQ.gif"  />
 
 ###
 
@@ -34,7 +34,7 @@
 
 ###
 
-<p align="left">- 🌱 I’m currently learning **Backed Development**<br><br>- 💬 Discuse with me  about Technology, Web Development, Exercise, Anime, Gaming  and Sports**<br><br>- 📫 Email me **amandeepsingh2312@gmail.com**</p>
+<p align="left">- 🌱 I’m currently learning **Backed Development**<br><br>- 💬 Discuss with me  about Technology, Web Development, Exercise, Anime, Gaming  and Sports**<br><br>- 📫 Email me **amandeepsingh2312@gmail.com**</p>
 
 ###
 
