@@ -90,7 +90,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Angryaman007/Angryaman007/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
