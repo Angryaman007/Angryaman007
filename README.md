@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif"  />
+  <img height="250" src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif"  />
 </div>
 
 ###
@@ -18,10 +18,15 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  <a href="https://www.linkedin.com/in/amandeep-singh-18048522a/" >
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/angryaman007?igsh=Y2lhbzhyamIzMm5p" >
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://youtube.com/@amansarcade?si=FJQeyaU1AFLONVkF" >
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="50" height="40" alt="youtube logo"  />
+  </a>
 </div>
 
 ###
@@ -34,7 +39,7 @@
 
 ###
 
-<p align="left">- 🌱 I’m currently learning **Backed Development**<br><br>- 💬 Discuss with me  about Technology, Web Development, Exercise, Anime, Gaming  and Sports**<br><br>- 📫 Email me **amandeepsingh2312@gmail.com**</p>
+<p align="left">- 🌱 I’m currently learning **Backed Development**<br><br>- 💬 Discuse with me  about Technology, Web Development, Exercise, Anime, Gaming  and Sports**<br><br>- 📫 Email me **amandeepsingh2312@gmail.com**</p>
 
 ###
 
@@ -90,12 +95,7 @@
 
 ###
 
-
-
-###
-
 <div align="left">
 </div>
 
 ###
-
