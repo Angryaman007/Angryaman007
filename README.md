@@ -39,7 +39,7 @@
 
 ###
 
-<p align="left">- 🌱 I’m currently learning <b>Backed Development</b><br><br>- 💬 Discuss with me about Technology, Web Development, Exercise, Anime, Gaming and Sports**<br><br>- 
+<p align="left">- 🌱 I’m currently learning <b>Backed Development</b><br><br>- 💬 Discuss with me about Technology, Web Development, Anime, Gaming and Sports<br><br>- 
 📫 Email me: <a href="mailto: [amandeepsingh2312@gmail.com]"><b>amandeepsingh2312@gmail.com</b></p>
 
 ###
