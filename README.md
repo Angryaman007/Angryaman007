@@ -78,7 +78,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"/>
 </div>
 
-###
+
 
 <h3 align="left">🔥   My Stats :</h3>
 
@@ -89,14 +89,10 @@
 </div>
 
 ###
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Angryaman007&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+<p>&nbsp;<img align="" src="https://github-readme-stats.vercel.app/api?username=Angryaman007&show_icons=true&locale=en" alt="Angryaman007" /></p>
+<img src="https://streak-stats.demolab.com?user=Angryaman007&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-###
 
-<div align="left">
-</div>
 
-###
