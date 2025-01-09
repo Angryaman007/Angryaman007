@@ -91,6 +91,7 @@
 ###
 <div align="center">
 <p>&nbsp;<img align="" src="https://github-readme-stats.vercel.app/api?username=Angryaman007&show_icons=true&locale=en" alt="Angryaman007" /></p>
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Angryaman007&theme=dark)](https://git.io/streak-stats)
 </div>
 
 
